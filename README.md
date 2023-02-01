@@ -5,7 +5,8 @@ I'm a Full-Stack developer who likes to work with
 [![Pablo Vallecillos's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-dark-mode-only)
 [![Pablo Vallecillos's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=compact)](https://github.com/PabloVallecillos/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=compact#gh-light-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-light-mode-only)
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
