@@ -39,9 +39,9 @@ I'm a Full-Stack developer who likes to work with
 #### 🧡 &nbsp;&nbsp;My passions
 
 * Technology and software
-* Science 
 * IA
 * UI/UX
+* Fashion
 * Books
 * Swimming
 * Nature
