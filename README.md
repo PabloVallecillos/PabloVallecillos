@@ -7,6 +7,8 @@ Hi, I'm Pablo Vallecillos
 
 I'm a Full-Stack developer who likes to work with
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=compact)](https://github.com/PabloVallecillos/github-readme-stats)
+
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
