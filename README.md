@@ -1,4 +1,4 @@
-# Hi, I'm Pablo Vallecillos
+Hi, I'm Pablo Vallecillos
 
 <!-- <p align="center">
   <a href="https://aralroca.com">
@@ -6,13 +6,7 @@
   </a>
 </p> -->
 
-<p align="center" style="margin: -20px 0 30px">
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pablo-vallecillos/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-</p>
+<a href="https://www.linkedin.com/in/pablo-vallecillos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://medium.com/@BlueDigitalWave"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/bluedigitalwave"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
 I'm a Full-Stack developer who likes to work with
 
