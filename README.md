@@ -1,10 +1,10 @@
 # Hi, I'm Pablo Vallecillos
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://aralroca.com">
     <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
   </a>
-</p>
+</p> -->
 
 <p align="center" style="margin: -20px 0 30px">
   &nbsp;&nbsp;
