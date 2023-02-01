@@ -1,11 +1,9 @@
-Hi, I'm Pablo Vallecillos
+# Hi, I'm Pablo Vallecillos
+
+I'm a Full-Stack developer who likes to work with
 
 [![Pablo Vallecillos's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-dark-mode-only)
 [![Pablo Vallecillos's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-light-mode-only)
-
-<a href="https://www.linkedin.com/in/pablo-vallecillos"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a><a href="https://medium.com/@BlueDigitalWave"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/bluedigitalwave"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-
-I'm a Full-Stack developer who likes to work with
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=compact)](https://github.com/PabloVallecillos/github-readme-stats)
 
@@ -38,7 +36,7 @@ I'm a Full-Stack developer who likes to work with
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
-#### 🧡 &nbsp;&nbsp;My passions
+# My passions
 
 * Technology and software
 * IA
@@ -47,4 +45,12 @@ I'm a Full-Stack developer who likes to work with
 * Books
 * Swimming
 * Nature
+
+# Contact
+
+<a href="https://www.linkedin.com/in/pablo-vallecillos" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://medium.com/@BlueDigitalWave" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+<a href="https://dev.to/bluedigitalwave" target="_blank">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
+<a href="mailto:vallecillospablo@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
