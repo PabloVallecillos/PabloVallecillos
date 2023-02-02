@@ -40,7 +40,7 @@
 # Passions
 
 * Technology and software
-* IA
+* AI
 * UI/UX
 * Fashion
 * Books
