@@ -2,7 +2,7 @@
 
 <a href="https://github.com/PabloVallecillos"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=dark" align="right" height="150" /></a>
 
-- 🎓 Working at Comerline
+🎓 Working at Comerline
 
 ### 🛠️ Tech Stack
 
