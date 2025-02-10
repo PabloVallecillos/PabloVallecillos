@@ -11,7 +11,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-0A1A2F?style=flat&logo=flutter)
   ![Dart](https://img.shields.io/badge/-Dart-0A1A2F?style=flat&logo=dart)
 
-- 🗄 Backend:
+- 🗄️ Backend:
   ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
@@ -27,7 +27,7 @@
   ![REST](https://img.shields.io/badge/-REST-0A1A2F?style=flat&logo=rest)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0A1A2F?style=flat&logo=rabbitmq)
 
--  Frontend:
+- ✨ Frontend:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
   ![Angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular)
@@ -54,7 +54,7 @@
   ![Three.js](https://img.shields.io/badge/-Three.js-0A1A2F?style=flat&logo=three.js)
   ![D3.js](https://img.shields.io/badge/-D3.js-0A1A2F?style=flat&logo=d3.js)
 
-- 🛢 Database:
+- 💾 Database:
   ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![MariaDB](https://img.shields.io/badge/-MariaDB-0A1A2F?style=flat&logo=mariadb)
@@ -71,7 +71,7 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-0A1A2F?style=flat&logo=pycharm)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intellij-idea)
 
-- 🏎 DevOps:
+- 🚀 DevOps:
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
   ![GithubActions](https://img.shields.io/badge/-GithubActions-0A1A2F?style=flat&logo=github)
   ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-0A1A2F?style=flat&logo=amazon-aws)
@@ -82,7 +82,7 @@
   ![Prometheus](https://img.shields.io/badge/-Prometheus-E52A2A?style=flat&logo=prometheus)
   ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana)
 
-- 🖥 Design:
+- 🎨 Design:
   ![Figma](https://img.shields.io/badge/-Figma-F2F2F2?style=flat&logo=figma&logoColor=black)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-07B5FF?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-FF7029?style=flat&logo=adobe-illustrator)
@@ -96,7 +96,7 @@
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=cv)](https://github.com/PabloVallecillos/cv)     | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=monitor)](https://github.com/PabloVallecillos/monitor)     |
 | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=pozik-back)](https://github.com/PabloVallecillos/pozik-back)   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=radius)](https://github.com/PabloVallecillos/radius) |
 
-### 🏗 Projects
+### 📦 Projects
 
 - [https://pablovm.vercel.app](https://pablovm.vercel.app/en/) 🏗️
 - [https://www.comerline.es/programacion-orientada-a-objetos-principios-solid](https://www.comerline.es/programacion-orientada-a-objetos-principios-solid/)
