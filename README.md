@@ -106,6 +106,6 @@
 - [https://monitor-x28k.vercel.app](https://monitor-x28k.vercel.app)
 
 <img src="https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=donut&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&hide_progress=true&theme=dark" />
 
 ![Visitor Count](https://profile-counter.glitch.me/PabloVallecillos/count.svg)
