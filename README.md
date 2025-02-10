@@ -1,6 +1,6 @@
 ### Hi 👋
 
-### 🛠️ **Tech Stack**
+# 🛠️ **Tech Stack**
 
 📱 **Mobile/Desktop**
 
@@ -95,7 +95,7 @@
   ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-0A1A2F?style=flat&logo=adobe-premiere-pro)
   ![FL Studio](https://img.shields.io/badge/-FL_Studio-0A1A2F?style=flat&logo=fl-studio)
 
-### 📦 **Projects**
+# 📦 **Projects**
 
 - [https://pablovm.vercel.app](https://pablovm.vercel.app/en/) 🏗️
 - [https://www.comerline.es/programacion-orientada-a-objetos-principios-solid](https://www.comerline.es/programacion-orientada-a-objetos-principios-solid/)
