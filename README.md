@@ -1,64 +1,84 @@
-# Hi, I'm Pablo Vallecillos
+### Hi 👋
 
-[![Pablo Vallecillos's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-dark-mode-only)
-[![Pablo Vallecillos's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-light-mode-only)
+<a href="https://github.com/PabloVallecillos"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=radical" align="right" height="150" /></a>
 
-# I'm a Full-Stack developer who likes to work with:
+- 🎓 Working at Comerline
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=compact#gh-light-mode-only)](https://github.com/PabloVallecillos/PabloVallecillos#gh-light-mode-only)
+### 🛠 Tech Stack
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
-![Manjaro](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=369cee&logoColor=ffffff&logo=docker)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- 📱 Mobile/Desktop:
+  ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
+  ![Ionic](https://img.shields.io/badge/-Ionic-0A1A2F?style=flat&logo=Ionic)
+  ![Electron](https://img.shields.io/badge/-Electron-0A1A2F?style=flat&logo=electron)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
 
-# Passions
+- 🗄 Backend:
+  ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+  ![Codeigniter](https://img.shields.io/badge/-Codeigniter-0A1A2F?style=flat&logo=codeigniter)
 
-* Technology and software
-* AI
-* UI/UX
-* Fashion
-* Books
-* Swimming
-* Nature
+- 🌐 Frontend:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
+  ![Angular](https://img.shields.io/badge/-Angular-0A1A2F?style=flat&logo=angular)
+  ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
 
-# Contact
+- 🛢 Database:
+  ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  
+- ⚙️ VCS:
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/-Gitlab-0A1A2F?style=flat&logo=gitlab)
 
-<a href="https://www.linkedin.com/in/pablo-vallecillos" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://medium.com/@BlueDigitalWave" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
-<a href="https://dev.to/bluedigitalwave" target="_blank">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
-<a href="mailto:vallecillospablo@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- 🔧 IDE's:
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20Code-0A1A2F?style=flat&logo=android-studio)
+  ![WebStorm](https://img.shields.io/badge/-WebStorm-0A1A2F?style=flat&logo=webstorm)
+  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-0A1A2F?style=flat&logo=phpstorm)
+  ![CLion](https://img.shields.io/badge/-CLion-0A1A2F?style=flat&logo=clion)
+
+- 🏎 DevOps:
+  ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
+  ![GithubActions](https://img.shields.io/badge/-GithubActions-0A1A2F?style=flat&logo=github)
+
+- 🖥 Design:
+  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-0A1A2F?style=flat&logo=adobe-xd)
+  
+- 📚 Languages:
+  - 🧙🏻 High level:
+  ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=JavaScript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
+  ![C++](https://img.shields.io/badge/-C++-0A1A2F?style=flat&logo=cplusplus)
+  - 🔮 Mid level:
+  ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=Python)
+  ![C99](https://img.shields.io/badge/-C99-0A1A2F?style=flat&logo=C)
+  ![C#](https://img.shields.io/badge/-CSharp-0A1A2F?style=flat&logo=csharp)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-0A1A2F?style=flat&logo=Kotlin)
+  ![Swift](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)
+  ![Rust](https://img.shields.io/badge/-Rust-0A1A2F?style=flat&logo=Rust)
+  - 🃏 Low level:
+  ![Julia](https://img.shields.io/badge/-Julia-0A1A2F?style=flat&logo=Julia)
+  ![Haskell](https://img.shields.io/badge/-Haskell-0A1A2F?style=flat&logo=Haskell)
+  ![Ruby](https://img.shields.io/badge/-Ruby-0A1A2F?style=flat&logo=Ruby)
 
 
+| - | - |
+| ------------- | ------------- |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=cv)](https://github.com/PabloVallecillos/cv)     | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=monitor)](https://github.com/PabloVallecillos/monitor)     |
+| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=pozik-back)](https://github.com/PabloVallecillos/pozik-back)   | [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PabloVallecillos&repo=radius)](https://github.com/PabloVallecillos/radius) |
+
+### 🏗 Projects
+
+- [https://pablovm.vercel.app](https://pablovm.vercel.app/en/) 🏗️
+- [https://www.comerline.es/programacion-orientada-a-objetos-principios-solid](https://www.comerline.es/programacion-orientada-a-objetos-principios-solid/)
+- [https://www.comerline.es/reconocimiento-facial-con-face-api-js-y-react](https://www.comerline.es/reconocimiento-facial-con-face-api-js-y-react/)
+- [https://search-polygon-game-qpj5n0nyc-pablovallecillos.vercel.app](https://search-polygon-game-qpj5n0nyc-pablovallecillos.vercel.app/#/)
+- [https://fashionkilla.vercel.app](https://fashionkilla.vercel.app/)
+- [https://chmod-22i3dmno7-pablovallecillos.vercel.app](https://chmod-22i3dmno7-pablovallecillos.vercel.app/)
+- [https://monitor-x28k.vercel.app](https://monitor-x28k.vercel.app)
+
+![Visitor Count](https://profile-counter.glitch.me/PabloVallecillos/count.svg)
