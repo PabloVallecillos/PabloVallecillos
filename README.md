@@ -1,9 +1,9 @@
 ### Hi 👋
 
-<a href="https://github.com/PabloVallecillos"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=dark" align="right" height="150" /></a>
-
-
-🎓 Working at Comerline
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=PabloVallecillos&show_icons=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloVallecillos&layout=donut&theme=dark" />
+</p>
 
 ### 🛠️ **Tech Stack**
 
