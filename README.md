@@ -2,13 +2,13 @@
 
 # 🛠️ **Tech Stack**
 
-📱 **Mobile/Desktop**
+## 📱 **Mobile/Desktop**
 
   ![Java](https://img.shields.io/badge/-Java-0A1A2F?style=flat&logo=Java&logoColor=FFF)
   ![Flutter](https://img.shields.io/badge/-Flutter-0A1A2F?style=flat&logo=flutter)
   ![Dart](https://img.shields.io/badge/-Dart-0A1A2F?style=flat&logo=dart)
 
-🗄️ **Backend**
+## 🗄️ **Backend**
 
   ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=php)
   ![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=python)
@@ -25,7 +25,7 @@
   ![REST](https://img.shields.io/badge/-REST-0A1A2F?style=flat&logo=rest)
   ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-0A1A2F?style=flat&logo=rabbitmq)
 
-✨ **Frontend**
+## ✨ **Frontend**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
@@ -53,18 +53,18 @@
   ![Three.js](https://img.shields.io/badge/-Three.js-0A1A2F?style=flat&logo=three.js)
   ![D3.js](https://img.shields.io/badge/-D3.js-0A1A2F?style=flat&logo=d3.js)
 
-💾 **Database**
+## 💾 **Database**
 
   ![SQL](https://img.shields.io/badge/-SQL-0A1A2F?style=flat&logo=sql&logoColor=00d8fd)
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![MariaDB](https://img.shields.io/badge/-MariaDB-0A1A2F?style=flat&logo=mariadb)
 
-⚙️ **VCS**
+## ⚙️ **VCS**
 
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
 
-🔧 **IDE's**
+## 🔧 **IDE's**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20Code-0A1A2F?style=flat&logo=android-studio)
@@ -73,7 +73,7 @@
   ![PyCharm](https://img.shields.io/badge/-PyCharm-0A1A2F?style=flat&logo=pycharm)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0A1A2F?style=flat&logo=intellij-idea)
 
-🚀 **DevOps**
+## 🚀 **DevOps**
 
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
   ![GithubActions](https://img.shields.io/badge/-GithubActions-0A1A2F?style=flat&logo=github)
@@ -85,7 +85,7 @@
   ![Prometheus](https://img.shields.io/badge/-Prometheus-0A1A2F?style=flat&logo=prometheus)
   ![Grafana](https://img.shields.io/badge/-Grafana-0A1A2F?style=flat&logo=grafana)
 
-🎨 **Design**
+## 🎨 **Design**
 
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat&logo=adobe-photoshop)
